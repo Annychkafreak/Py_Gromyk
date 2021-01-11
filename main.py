@@ -4,10 +4,15 @@ def print_dictionary(e2g):
 
 
 thisdict = {
-  "stork": "storch",
-  "hawk": "falke",
-  "woodpecker": "specht",
-  "owl": "eule"
+    "stork": "storch",
+    "hawk": "falke",
+    "woodpecker": "specht",
+    "owl": "eule",
+    "cat": "die Katze",
+    "kitten": "der Kater",
+    "bird": "der Vogel",
+    "rabbit": "das Kaninchen"
+
 }
 x = thisdict.values()
 print(x)
